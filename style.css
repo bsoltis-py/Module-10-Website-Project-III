@@ -3,7 +3,6 @@
 .flex-container {
     display: flex;
     background-color: lightgray;
-    flex-direction: column;
   }
   
   .flex-container > div {
