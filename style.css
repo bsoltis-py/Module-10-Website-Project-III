@@ -7,7 +7,6 @@
   
   .flex-container > div {
     background-color: black;
-    flex-grow: 1;
     margin: 10px;
     padding: 20px;
     font-size: 30px;
