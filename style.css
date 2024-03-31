@@ -9,7 +9,7 @@
   
   /*This is to make the images have a black background and in a row */
 
-  .flex-container > img {
+  .flex-container > div > a > img {
     background-color: black;
     margin: 10px;
     padding: 20px;
