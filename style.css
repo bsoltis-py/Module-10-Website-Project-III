@@ -21,5 +21,6 @@
     font-size: 30px;
     cursor: pointer;
     width: 200px;
-    height: auto;
+    height: 200px;
+    object-fit: cover;
   }
