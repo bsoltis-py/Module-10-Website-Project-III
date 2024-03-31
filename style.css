@@ -21,8 +21,3 @@
     font-size: 30px;
     cursor: pointer;
   }
-
-  .flex-container img {
-    max-width: 100%;
-    max-height: 100%;
-  }
