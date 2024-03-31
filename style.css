@@ -1,6 +1,7 @@
 
 
 /*this makes the flex box function work in the webpage. NoWrap makes the items stay in one row*/
+/* No wrap makes sure the items are in one row*/
 .flex-container {
     display: flex;
     flex-wrap: nowrap;
