@@ -10,6 +10,8 @@
     background-color: lightgray;
     flex-direction: row;
     flex-grow: 1;
+    max-width: 150px;
+    max-height: 150px;
   }
   
   .flex-container > div {
