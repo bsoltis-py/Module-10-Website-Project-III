@@ -7,6 +7,11 @@
     background-color: lightgray;
   }
   
+
+  .flex-container > div {
+    display: flex;
+  }
+
   /*This is to make the images have a black background and in a row */
 
   .flex-container > div > a > img {
