@@ -9,8 +9,6 @@
     display: flex;
     background-color: lightgray;
     flex-direction: row;
-    max-width: 150px;
-    max-height: 150px;
   }
   
   .flex-container > div {
