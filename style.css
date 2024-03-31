@@ -1,11 +1,14 @@
 
 
+/*this makes the flex box function work in the webpage. NoWrap makes the items stay in one row*/
 .flex-container {
     display: flex;
     flex-wrap: nowrap;
     background-color: lightgray;
   }
   
+  /*This is to make the images have a black background and in a row */
+
   .flex-container > img {
     background-color: black;
     margin: 10px;
